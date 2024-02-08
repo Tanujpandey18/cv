@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Tanujpandey18"
+  description: "A Sample Service in my personal Github Account"
+ 
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: Service
